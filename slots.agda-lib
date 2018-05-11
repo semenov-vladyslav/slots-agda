@@ -1,0 +1,3 @@
+name: slots
+include: src
+depend: std-lib
